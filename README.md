@@ -69,6 +69,9 @@ An interactive Python project to animate and understand how different sorting al
 
 ## ✨ Developer Quote
 
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=radical&category=programming" alt="Random Dev Quote" />
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Manjunath-kantigavi&icon=4&color=11)](https://visitcount.itsvg.in)
+
