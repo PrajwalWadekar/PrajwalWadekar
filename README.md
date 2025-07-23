@@ -47,12 +47,12 @@ An interactive Python project to animate and understand how different sorting al
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalWadekar&show_icons=true&theme=radical&hide_title=true&count_private=true&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalWadekar&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalWadekar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PrajwalWadekar&theme=gotham&hide_border=false" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalWadekar&layout=compact&theme=radical&hide_border=true" width="48%" />
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalWadekar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </div>
 
 ---
@@ -69,9 +69,12 @@ An interactive Python project to animate and understand how different sorting al
 
 ## ✨ Developer Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Manjunath-kantigavi&icon=4&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PrajwalWadekar&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
