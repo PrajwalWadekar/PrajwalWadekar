@@ -32,7 +32,7 @@ A full-stack resume building application allowing users to create, customize, an
 ---
 
 
-### 🌿 [Carbon Footprint Analysis Dashboard](https://carbon-neutrality-e8ha.vercel.app/)
+### 🌿 [Carbon Neutrality Platform](https://carbon-neutrality-e8ha.vercel.app/)
 A sustainability-focused analytics platform for monitoring emissions in coal mining sites.  
 > 🏆 _Winner of Smart India Hackathon 2024_  
 > **Tech Stack:** React, Tailwind CSS, Chart.js, Node.js, MongoDB
