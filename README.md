@@ -39,7 +39,7 @@ A sustainability-focused analytics platform for monitoring emissions in coal min
 
 ---
 
-### 🔐 [Authify – MERN Authentication System](https://mern-authentication-system-lkmn.onrender.com/)
+### 🔐 [Authify – MERN Authentication System](https://authify.site/)
 A full-featured user authentication platform with JWT, form validations, and protected routing.  
 > **Tech Stack:** MongoDB, Express.js, React, Node.js, Tailwind css
 
