@@ -25,7 +25,7 @@ I enjoy solving real-world problems and delivering clean, maintainable code thro
 
 ## 📌 Featured Projects
 
-### 🧾 [NxtResume – MERN Resume Builder](https://nxtresume-frontend.onrender.com/)
+### 🧾 [NxtResume – MERN Resume Builder](https://nxtresume.site/)
 A full-stack resume building application allowing users to create, customize, and export professional resumes with ease.  
 > **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS
 
