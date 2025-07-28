@@ -25,6 +25,13 @@ I enjoy solving real-world problems and delivering clean, maintainable code thro
 
 ## 📌 Featured Projects
 
+### 🧾 [NxtResume – MERN Resume Builder](https://nxtresume-frontend.onrender.com/)
+A full-stack resume building application allowing users to create, customize, and export professional resumes with ease.  
+> **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS
+
+---
+
+
 ### 🌿 [Carbon Footprint Analysis Dashboard](https://carbon-neutrality-e8ha.vercel.app/)
 A sustainability-focused analytics platform for monitoring emissions in coal mining sites.  
 > 🏆 _Winner of Smart India Hackathon 2024_  
@@ -34,7 +41,7 @@ A sustainability-focused analytics platform for monitoring emissions in coal min
 
 ### 🔐 [Authify – MERN Authentication System](https://mern-authentication-system-lkmn.onrender.com/)
 A full-featured user authentication platform with JWT, form validations, and protected routing.  
-> **Tech Stack:** MongoDB, Express.js, React, Node.js, Bootstrap
+> **Tech Stack:** MongoDB, Express.js, React, Node.js, Tailwind css
 
 ---
 
