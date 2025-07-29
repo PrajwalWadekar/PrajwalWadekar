@@ -13,6 +13,9 @@ I enjoy solving real-world problems and delivering clean, maintainable code thro
 
 ---
 
+
+
+
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -22,6 +25,7 @@ I enjoy solving real-world problems and delivering clean, maintainable code thro
 </p>
 
 ---
+
 
 ## 📌 Featured Projects
 
@@ -63,16 +67,17 @@ An interactive Python project to animate and understand how different sorting al
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalWadekar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </div>
 
----
 
+
+---
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:prajwalvwadekar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/prajwalvwadekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/prajwal.__w/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://prajwalwadekar.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
 ---
 
 ## ✨ Developer Quote
